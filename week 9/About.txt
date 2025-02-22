@@ -1,0 +1,10 @@
+Graphs:
+
+	- Vertices (nodes)
+	- Edges ()
+
+if v = 3, 
+	possible edges e <= v^2
+
+
+
